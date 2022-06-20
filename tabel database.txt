@@ -1,0 +1,34 @@
+formulir siswa
+
+no		:
+nama	:
+jenkel	:
+perlu	:
+kelas	:
+absen	:
+pinjam	:		+	jumlah	:
+tanggal	:
+jam		:
+
+
+formulir guru
+
+no		:
+nama	:
+jenkel	:
+perlu	:
+pinjam	:		+	jumlah	:
+tanggal	:
+jam		:
+
+formulir inventaris
+
+nama alat		:
+tanggal masuk	:
+merk			:
+satuan			:
+jumlah			:
+baik			:
+rusak			:
+keterangan		:
+kategori		:
